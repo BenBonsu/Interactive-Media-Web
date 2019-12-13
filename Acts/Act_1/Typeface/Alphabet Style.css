@@ -1,0 +1,5178 @@
+body {
+	
+}
+/* - - - - - - - - - - - - - LETTER A START- - - - - - - - - - - - - - - */
+.letter {
+width: 100px;
+height: 200px;
+display: inline-block;
+border: 1px solid #000;
+position: relative;
+font-size:1em;
+}
+
+.letter-a .Block-1 { /*Top Star*/
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 10px;
+      left: 40px;
+}
+
+.letter-a .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-a .Block-2 { /* Centre Star */
+      background: red;
+      width:  .8em;
+      height: .8em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 45px;
+      left: 42px;
+}
+
+.letter-a .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: .8em;
+      width: .8em;
+      background: red;
+      transform: rotate(135deg);
+
+    }
+.letter-a .Block-3 { /*first from top right*/
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 5px;
+      left: 60px;
+}
+
+.letter-a .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+
+    }
+
+.letter-a .Block-4 { /*first from top left*/
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -11px;
+      left: 25px;
+}
+
+.letter-a .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+
+    }    
+.letter-a .Block-5 { /*second from top left*/
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 15px;
+}
+
+.letter-a .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+
+    }    
+.letter-a .Block-6 { /*second from top right*/
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -20px;
+      left: 70px;
+}
+
+.letter-a .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+
+    }
+.letter-a .Block-7 { /*third from top right*/
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -15px;
+      left: 80px;
+}
+
+.letter-a .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+
+    }
+.letter-a .Block-8 { /*third from top right*/
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -32px;
+      left: 8px;
+}
+
+.letter-a .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+
+}
+
+    /* - - - - - - - - -LETTER B START - - - - - - -  - - - - - - */
+.letter {
+width: 100px;
+height: 200px;
+display: inline-block;
+border: 1px solid #000;
+position: relative;
+font-size:1em;
+}
+ .letter-b .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 10px;
+      left: 20px;
+}
+
+.letter-b .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-b .Block-2 { /*first small circle*/
+      background: red;
+      width: 2em;
+      height: 2em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 40px;
+}
+
+.letter-b .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 2em;
+      width: 2em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-b .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -18px;
+      left: 20px;
+}
+
+.letter-b .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-b .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -15px;
+      left: 20px;
+}
+
+.letter-b .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-b .Block-5 { /*second big circele*/
+      background: red;
+      width: 2.5em;
+      height: 2.5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 40px;
+}
+
+.letter-b .Block-5:before { 
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 2.5em;
+      width: 2.5em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-b .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -50px;
+      left: 20px;
+}
+
+.letter-b .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+    /*- - - - - - - - -  - - LETTER C START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+.letter-c .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 25px;
+      left: 55px;
+}
+
+.letter-c .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-c .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 3px;
+      left: 35px;
+}
+
+.letter-c .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-c .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 15px;
+}
+
+.letter-c .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-c .Block-4 {
+      background: red;
+      width: 1.5em;
+      height: 1.5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 0px;
+      left: 5px;
+}
+
+.letter-c .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.5em;
+      width: 1.5em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-c .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 5px;
+      left: 15px;
+}
+
+.letter-c .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-c .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 5px;
+      left: 35px;
+}
+
+.letter-c .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+.letter-c .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 25px;
+      left: 55px;
+}
+
+.letter-c .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+/*- - - - - - - - -  - - LETTER D START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-d .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-d .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-d .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-d .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-d .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-d .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-d .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-d .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-d .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 15px;
+      left: 35px;
+}
+
+.letter-d .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-d .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 10px;
+      left: 50px;
+}
+
+.letter-d .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-d .Block-7 {
+      background: red;
+      width: 1.3em;
+      height: 1.3em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 45px;
+      left: 60px;
+}
+
+.letter-d .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.3em;
+      width: 1.3em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-d .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 80px;
+      left: 50px;
+}
+
+.letter-d .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-d .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 105px;
+      left: 35px;
+}
+
+.letter-d .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+/* - - - - - - - - - -  -LETTER E START - - - - -  - - - - - - - - -  - - - - - - - - - - -*/
+
+.letter-e .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-e .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-e .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-e .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-e .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-e .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-e .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-e .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-e .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-e .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-e .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -52px;
+      left: 34px;
+}
+
+.letter-e .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-e .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -68px;
+      left: 52px;
+}
+
+.letter-e .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-e .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -50px;
+      left: 35px;
+}
+
+.letter-e .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    } 
+
+.letter-e .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -33px;
+      left: 35px;
+}
+
+.letter-e .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+
+.letter-e .Block-10 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -48px;
+      left: 53px;
+}
+
+.letter-e .Block-10:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+/*- -  - - - - - - -  -LETTER F START- - - - - - - - - - - - - - - */
+	
+.letter-f .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-f .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-f .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-f .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-f .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-f .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-f .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-f .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-f .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-f .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-f .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -52px;
+      left: 34px;
+}
+
+.letter-f .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-f .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -68px;
+      left: 52px;
+}
+
+.letter-f .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-f .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -50px;
+      left: 35px;
+}
+
+.letter-f .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    } 
+/* - - - - - - - - - - - - - -  - -- -LETTER G START - - - - - - - - -  - - - - - - - -  - -*/
+
+.letter-g .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 25px;
+      left: 55px;
+}
+
+.letter-g .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-g .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 3px;
+      left: 35px;
+}
+
+.letter-g .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-g .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 15px;
+}
+
+.letter-g .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-g .Block-4 {
+      background: red;
+      width: 1.5em;
+      height: 1.5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 0px;
+      left: 5px;
+}
+
+.letter-g .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.5em;
+      width: 1.5em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-g .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 5px;
+      left: 15px;
+}
+
+.letter-g .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-g .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 5px;
+      left: 35px;
+}
+
+.letter-g .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+.letter-g .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 25px;
+      left: 55px;
+}
+
+.letter-g .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-g .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 60px;
+      left: 55px;
+}
+
+.letter-g .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+
+/*- - - - - - - - -  - - LETTER H START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-h .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-h .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-h .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-h .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-h .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-h .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-h .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-h .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-h .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-h .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-h .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-h .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-h .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-h .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-h .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-h .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-h .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -75px;
+      left: 40px;
+}
+
+.letter-h .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+/*- - - - - - - - -  - - LETTER I START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+.letter-i .Block-1 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-i .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-i .Block-2 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-i .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-i .Block-3 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-i .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-i .Block-4 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-i .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-i .Block-5 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -45px;
+      left: 65px;
+}
+
+.letter-i .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-i .Block-6 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -60px;
+      left: 50px;
+}
+
+.letter-i .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-i .Block-7 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -75px;
+      left: 30px;
+}
+
+.letter-i .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-i .Block-8 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -90px;
+      left: 15px;
+}
+
+.letter-i .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-i .Block-9 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -40px;
+      left: 20px;
+}
+
+.letter-i .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-i .Block-10 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -55px;
+      left: 35px;
+}
+
+.letter-i .Block-10:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-i .Block-11 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -70px;
+      left: 55px;
+}
+
+.letter-i .Block-11:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-i .Block-12 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -87px;
+      left: 65px;
+}
+
+.letter-i .Block-12:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+/*- - - - - - - - -  - - LETTER J START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-j .Block-1 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-j .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-j .Block-2 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-j .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-j .Block-3 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-j .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-j .Block-4 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-j .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-j .Block-5 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -45px;
+      left: 65px;
+}
+
+.letter-j .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-j .Block-6 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -60px;
+      left: 50px;
+}
+
+.letter-j .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-j .Block-7 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -75px;
+      left: 30px;
+}
+
+.letter-j .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-j .Block-8 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -90px;
+      left: 15px;
+}
+
+.letter-j .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-j .Block-9 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 20px;
+}
+
+.letter-j .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-j .Block-10 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -55px;
+      left: 35px;
+}
+
+.letter-j .Block-10:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-j .Block-11 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -80px;
+      left: 10px;
+}
+
+.letter-j .Block-11:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+
+/*- - - - - - - - -  - - LETTER K START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+.letter-k .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-k .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-k .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-k .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-k .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-k .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-k .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-k .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-k .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-k .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-k .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -50px;
+      left: 60px;
+}
+
+.letter-k .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-k .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 55px;
+      left: 50px;
+}
+
+.letter-k .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-k .Block-8 {
+      background: red;
+      width: 1.3em;
+      height: 1.3em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 55px;
+      left: 30px;
+}
+
+.letter-k .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.3em;
+      width: 1.3em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-k .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 55px;
+      left: 50px;
+}
+
+.letter-k .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-k .Block-10 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 55px;
+      left: 60px;
+}
+
+.letter-k .Block-10:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+/*- - - - - - - - -  - - LETTER L START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-l .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-l .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-l .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-l .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-l .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-l .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-l .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-l .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-l .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-l .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-l .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -52px;
+      left: 34px;
+}
+
+.letter-l .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-l .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -68px;
+      left: 52px;
+}
+
+.letter-l .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-l .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -50px;
+      left: 35px;
+}
+
+.letter-l .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    } 
+
+.letter-l .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 15px;
+      left: 35px;
+}
+
+.letter-l .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+
+.letter-l .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -1px;
+      left: 53px;
+}
+
+.letter-l .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+
+/*- - - - - - - - -  - - LETTER M START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-m .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-m .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-m .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 18px;
+}
+
+.letter-m .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-m .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 15px;
+}
+
+.letter-m .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-m .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 12px;
+}
+
+.letter-m .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-m .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 55px;
+}
+
+.letter-m .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-m .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-m .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-m .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 65px;
+}
+
+.letter-m .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-m .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 70px;
+}
+
+.letter-m .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-m .Block-9 {
+      background: red;
+      width: 1.2em;
+      height: 1.2em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -80px;
+      left: 37px;
+}
+
+.letter-m .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.2em;
+      width: 1.2em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+/*- - - - -- - - - - - -  - - LETTER N START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-n .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-n .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-n .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-n .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-n .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-h .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-n .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-n .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-n .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-n .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-n .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-n .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-n .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-n .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-n .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-n .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-n .Block-9 {
+      background: red;
+      width: .5em;
+      height: .5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -85px;
+      left: 35px;
+}
+
+.letter-n .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: .5em;
+      width: .5em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-n .Block-10 {
+      background: red;
+      width: .5em;
+      height: .5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -60px;
+      left: 50px;
+}
+
+.letter-n .Block-10:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: .5em;
+      width: .5em;
+      background: red;
+      transform: rotate(135deg);
+}
+
+/*- - - - -- - - - - - -  - - LETTER O START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+.letter-o .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 3px;
+      left: 35px;
+}
+
+.letter-o .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-o .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 15px;
+}
+
+.letter-o .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-o .Block-3 {
+      background: red;
+      width: 1.5em;
+      height: 1.5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 0px;
+      left: 5px;
+}
+
+.letter-o .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.5em;
+      width: 1.5em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-o .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 5px;
+      left: 15px;
+}
+
+.letter-o .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-o .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 5px;
+      left: 35px;
+}
+
+.letter-o .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+.letter-o .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 30px;
+      left: 55px;
+}
+
+.letter-o .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-o .Block-7 {
+      background: red;
+      width: 1.5em;
+      height: 1.5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -73px;
+      left: 60px;
+}
+
+.letter-o .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.5em;
+      width: 1.5em;
+      background: red;
+      transform: rotate(135deg);
+ }
+
+.letter-o .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -115px;
+      left: 55px;
+}
+
+.letter-o .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+/*- - - - - - - - -  - - LETTER P START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+ .letter-p .Block-1 {
+      background: red;
+      width: 2.5em;
+      height: 2.5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 35px;
+      left: 30px;
+}
+
+.letter-p .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 2.5em;
+      width: 2.5em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-p .Block-2 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-p .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-p .Block-3 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-p .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-p .Block-4 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-p .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-p .Block-5 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-p .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-p .Block-6 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-p .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+/*- - - - -- - - - - - -  - - LETTER Q START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+.letter-q .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 3px;
+      left: 35px;
+}
+
+.letter-q .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-q .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 15px;
+}
+
+.letter-q .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-q .Block-3 {
+      background: red;
+      width: 1.5em;
+      height: 1.5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 0px;
+      left: 5px;
+}
+
+.letter-q .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.5em;
+      width: 1.5em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-q .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 5px;
+      left: 15px;
+}
+
+.letter-q .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+   .letter-q .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 5px;
+      left: 35px;
+}
+
+.letter-q .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+.letter-q .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 30px;
+      left: 55px;
+}
+
+.letter-q .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-q .Block-7 {
+      background: red;
+      width: 1.2em;
+      height: 1.2em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -73px;
+      left: 60px;
+}
+
+.letter-q .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.2em;
+      width: 1.2em;
+      background: red;
+      transform: rotate(135deg);
+ }
+
+.letter-q .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -115px;
+      left: 55px;
+}
+
+.letter-q .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-q .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -70px;
+      left: 70px;
+}
+
+.letter-q .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+	transform: rotate(135deg); 
+}
+ /* - - - - - - - - -LETTER R START - - - - - - -  - - - - - - */
+
+ .letter-r .Block-1 {
+      background: red;
+      width: 2.5em;
+      height: 2.5em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 35px;
+      left: 30px;
+}
+
+.letter-r .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 2.5em;
+      width: 2.5em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-r .Block-2 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-r .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-r .Block-3 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-r .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-r .Block-4 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-r .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-r .Block-5 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-r .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-r .Block-6 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 20px;
+}
+
+.letter-r .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-r .Block-7 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -45px;
+      left: 55px;
+}
+
+.letter-r .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-r .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -45px;
+      left: 60px;
+}
+
+.letter-r .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-r .Block-9 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -50px;
+      left: 65px;
+}
+
+.letter-r .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+/*- - - - - - - - -  - - LETTER S START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-s .Block-1 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 40px;
+      left: 20px;
+}
+
+.letter-s .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-s .Block-2 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 35px;
+      left: 40px;
+}
+
+.letter-s .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-s .Block-3 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 25px;
+      left: 40px;
+}
+
+.letter-s .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-s .Block-4 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 20px;
+      left: 60px;
+}
+
+.letter-s .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-s .Block-5 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -45px;
+      left: 65px;
+}
+
+.letter-s .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-s .Block-6 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -60px;
+      left: 50px;
+}
+
+.letter-s .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-s .Block-7 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -75px;
+      left: 30px;
+}
+
+.letter-s .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-s .Block-8 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -85px;
+      left: 15px;
+}
+
+.letter-s .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-s .Block-9 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -40px;
+      left: 20px;
+}
+
+.letter-s .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-s .Block-10 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -55px;
+      left: 35px;
+}
+
+.letter-s .Block-10:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-s .Block-11 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -70px;
+      left: 55px;
+}
+
+.letter-s .Block-11:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-s .Block-12 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -95px;
+      left: 65px;
+}
+
+.letter-s .Block-12:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+
+/*- - - - - - - - -  - - LETTER T START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+.letter-t .Block-1 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-t .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-t .Block-2 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-t .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-t .Block-3 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-t .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-t .Block-4 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 40px;
+}
+
+.letter-t .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-t .Block-5 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -45px;
+      left: 65px;
+}
+
+.letter-t .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-t .Block-6 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -60px;
+      left: 50px;
+}
+
+.letter-t .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-t .Block-7 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -75px;
+      left: 30px;
+}
+
+.letter-t .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-t .Block-8 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -90px;
+      left: 15px;
+}
+
+.letter-t .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+/*- - - - - - - - -  - - LETTER U START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-u .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 5px;
+}
+
+.letter-u .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-u .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 10px;
+}
+
+.letter-u .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-u .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 15px;
+}
+
+.letter-u .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-u .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 25px;
+}
+
+.letter-u .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-u .Block-5 {
+      background: red;
+      width: 1.1em;
+      height: 1.1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 15px;
+      left: 40px;
+}
+
+.letter-u .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.1em;
+      width: 1.1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-u .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -5px;
+      left: 55px;
+}
+
+.letter-u .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-u .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 65px;
+}
+
+.letter-u .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-u .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -70px;
+      left: 70px;
+}
+
+.letter-u .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-u .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -100px;
+      left: 70px;
+}
+
+.letter-u .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+
+
+/* - - - - - - - - - ---- -  LETTER V START- - - - - - -  - - - - - - -  - - - - -  - - - */
+
+
+.letter-v .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 5px;
+}
+
+.letter-v .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-v .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 10px;
+}
+
+.letter-v .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-v .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 15px;
+}
+
+.letter-v .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-v .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 25px;
+}
+
+.letter-v .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-v .Block-5 {
+      background: red;
+      width: 1.1em;
+      height: 1.1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 25px;
+      left: 35px;
+}
+
+.letter-v .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.1em;
+      width: 1.1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-v .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -1px;
+      left: 50px;
+}
+
+.letter-v .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-v .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -30px;
+      left: 60px;
+}
+
+.letter-v .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-v .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -65px;
+      left: 65px;
+}
+
+.letter-v .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-v .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -100px;
+      left: 70px;
+}
+
+.letter-v .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+/*- - - - - - - - -  - - LETTER W START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-w .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 5px;
+}
+
+.letter-w .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-w .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 10px;
+}
+
+.letter-w .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-w .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 32px;
+      left: 15px;
+}
+
+.letter-w .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-w .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 33px;
+      left: 20px;
+}
+
+.letter-w .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-w .Block-5 {
+      background: red;
+      width: 1.2em;
+      height: 1.2em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 1px;
+      left: 35px;
+}
+
+.letter-w .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.2em;
+      width: 1.2em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-w .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -1px;
+      left: 55px;
+}
+
+.letter-w .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-w .Block-7 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -30px;
+      left: 60px;
+}
+
+.letter-w .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-w .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -65px;
+      left: 65px;
+}
+
+.letter-w .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+   }
+
+.letter-w .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -100px;
+      left: 70px;
+}
+
+.letter-w .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+/*- - - - - - - - -  - - LETTER X START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+/*
+.letter-x .Block-0 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 15px;
+      left: 60px;
+}
+
+.letter-x .Block-0:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+*/
+
+.letter-x .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 1px;
+}
+
+.letter-x .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-x .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: -25px;
+      left: 15px;
+}
+
+.letter-x .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-x .Block-3 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: -40px;
+      left: 15px;
+}
+
+.letter-x .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-x .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: -40px;
+      left: 1px;
+}
+
+.letter-x .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-x .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -35px;
+      left: 60px;
+}
+
+.letter-x .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-x .Block-6 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 40px;
+      left: 45px;
+}
+
+.letter-x .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-x .Block-7 {
+      background: red;
+      width: 1.3em;
+      height: 1.3em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 40px;
+      left: 30px;
+}
+
+.letter-x .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.3em;
+      width: 1.3em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-x .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 45px;
+      left: 50px;
+}
+
+.letter-x .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-x .Block-9 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 45px;
+      left: 60px;
+}
+
+.letter-x .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+/*- - - - - - - - -  - - LETTER Y START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+.letter-y .Block-1 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 5px;
+}
+
+.letter-y .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-y .Block-2 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 25px;
+      left: 15px;
+}
+
+.letter-y .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+}
+.letter-y .Block-3 {
+      background: red;
+      width: 1.3em;
+      height: 1.3em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: -20px;
+      left: 35px;
+}
+
+.letter-y .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1.3em;
+      width: 1.3em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-y .Block-4 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 10px;
+      left: 60px;
+}
+
+.letter-y .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-y .Block-5 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -40px;
+      left: 70px;
+}
+
+.letter-y .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+
+.letter-y .Block-8 {
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      bottom: 55px;
+      left: 50px;
+}
+
+.letter-y .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+
+.letter-y .Block-6 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -10px;
+      left: 40px;
+}
+
+.letter-y .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-y .Block-7{ 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -10px;
+      left: 40px;
+}
+
+.letter-y .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+
+.letter-y .Block-8 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -10px;
+      left: 40px;
+}
+
+.letter-y .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+/*- - - - - - - - -  - - LETTER Z START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
+
+
+.letter-z .Block-1 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 60px;
+}
+
+.letter-z .Block-1:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-z .Block-2 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 35px;
+      left: 40px;
+}
+
+.letter-z .Block-2:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-z .Block-3 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 25px;
+      left: 40px;
+}
+
+.letter-z .Block-3:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em;
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-z .Block-4 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: 30px;
+      left: 20px;
+}
+
+.letter-z .Block-4:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-z .Block-5 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -45px;
+      left: 65px;
+}
+
+.letter-z .Block-5:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-z .Block-6 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -60px;
+      left: 50px;
+}
+
+.letter-z .Block-6:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+.letter-z .Block-7 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -75px;
+      left: 30px;
+}
+
+.letter-z .Block-7:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-z .Block-8 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center; 
+      transform: rotate(20deg);
+      top: -90px;
+      left: 15px;
+}
+
+.letter-z .Block-8:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-z .Block-9 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -40px;
+      left: 20px;
+}
+
+.letter-z .Block-9:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-z .Block-10 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -55px;
+      left: 35px;
+}
+
+.letter-z .Block-10:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-z .Block-11 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -70px;
+      left: 55px;
+}
+
+.letter-z .Block-11:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+.letter-z .Block-12 { 
+      background: red;
+      width: 1em;
+      height: 1em;
+      position: relative;
+      text-align: center;
+      transform: rotate(20deg);
+      top: -87px;
+      left: 65px;
+}
+
+.letter-z .Block-12:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 1em;
+      width: 1em; 
+      background: red;
+      transform: rotate(135deg);
+    }
+
+
+/*- - - - - - - - -  - - LETTER W START- - - - - - -  - - - - - - - - - -  - - - - - - - - */
